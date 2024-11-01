@@ -7,10 +7,10 @@ html {
 	background-color: white;
 }
 body {
-	font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 100%;
-    width: 800px;
-    margin: 0 auto;
+    width: 600px;
+    horizontalmargin: 0 auto;
     border: 3px solid #931420;
     background-color: #fffded;
 }
